@@ -34,11 +34,11 @@ High-level summary of sales, customer behavior, and product performance.
 ### 2. Sales Performance
 Breakdown of sales by category, season, gender, and size.  
 Includes top 5 and bottom 5 products with their cities and colors.  
-![Sales Performance](path/to/Sales performance.png)
+![Sales Performance](Sales Performance.png)
 
 ### 3. Shipping Review
 Analysis of payment methods, shipping options, and purchase timing regarding discounts.  
-![Shipping Review](path/to/shipping review.png)
+![Shipping Review](Shipping Review.png)
 
 ---
 
