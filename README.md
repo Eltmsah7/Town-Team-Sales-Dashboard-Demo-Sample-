@@ -29,7 +29,7 @@ The dashboard includes the following Key Performance Indicators (KPIs) to monito
 
 ### 1. Overview
 High-level summary of sales, customer behavior, and product performance.  
-![Overview](path/to/Overview.png)
+![Overview](Overview.png)
 
 ### 2. Sales Performance
 Breakdown of sales by category, season, gender, and size.  
